@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 - Strengthen problem-solving and analytical thinking skills
 - Master Data Structures and Algorithms
 - Prepare for Java / Software Development interviews
-- Build consistency through daily coding practice
+- Build consistency through regular coding practice
 - Track my learning progress over time
 
 ## 🛠️ Tech Stack
@@ -28,15 +28,17 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 - Two Pointers
 - Sliding Window
 - Stack
+- Linked List
 - Greedy
-- Sorting & Searching
+- Bit Manipulation
+- Recursion
 - Basic Problem Solving
 
 ## 📈 Progress
 
 I continuously update this repository as I solve new problems and improve my understanding of algorithms and data structures.
 
-**Total Problems Solved: 14**
+**Total Problems Solved: 18**
 
 ---
 
@@ -44,7 +46,7 @@ I continuously update this repository as I solve new problems and improve my und
 
 - **GitHub:** https://github.com/pradeep-bhat-ms
 - **LinkedIn:** https://www.linkedin.com/in/pradeep-bhat-66ba752b9
-- **Portfolio:**[ portfolio-pradeep-bhat-ms-projects.vercel.app](https://portfolio-pradeep-bhat-ms-projects.vercel.app/)
+- **Portfolio:** https://portfolio-pradeep-bhat-ms-projects.vercel.app/
 
 ---
 
@@ -62,72 +64,94 @@ Happy Coding! 🚀
 
 ## Array
 
-| Problem |
-|---|
-| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum) |
-| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray) |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
-| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate) |
-| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 
 ## String
 
-| Problem |
-|---|
-| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix) |
-| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams) |
-| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome) |
-| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings) |
-| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram) |
-| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string) |
-| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
 ## HashMap / HashSet
 
-| Problem |
-|---|
-| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum) |
-| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams) |
-| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings) |
-| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate) |
-| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram) |
-| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
 ## Two Pointers
 
-| Problem |
-|---|
-| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome) |
-| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes) |
-| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 
 ## Sliding Window
 
-| Problem |
-|---|
-| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 
-## Greedy / Dynamic Thinking
+## Stack
 
-| Problem |
-|---|
-| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray) |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+
+## Linked List
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+
+## Greedy
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+
+## Bit Manipulation
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 
 ---
 
+# 🧠 Learning Approach
 
+For every problem, I focus on:
+
+1. Understanding the problem
+2. Identifying the pattern
+3. Thinking about the brute-force approach
+4. Finding the optimized approach
+5. Implementing the solution in Java
+6. Performing a dry run
+7. Understanding time and space complexity
+8. Identifying the interview takeaway
+
+---
 Happy Coding! 🚀
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
-<!---LeetCode Topics End-->
