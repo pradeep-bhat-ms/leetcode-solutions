@@ -38,7 +38,7 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 
 I continuously update this repository as I solve new problems and improve my understanding of algorithms and data structures.
 
-**Total Problems Solved: 18**
+**Total Problems Solved: 20**
 
 ---
 
@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0392 - Is Subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 
 ## Sliding Window
 
@@ -125,6 +126,12 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 
+
+## Sorting & Searching
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ---
 
 # 🧠 Learning Approach
