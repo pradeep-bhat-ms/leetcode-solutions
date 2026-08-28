@@ -72,20 +72,7 @@ Happy Coding! 🚀
 | [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 
-## String
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
-| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
-| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
-| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
-| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
-| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
-| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
-| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
-| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
 ## HashMap / HashSet
 
@@ -155,3 +142,32 @@ For every problem, I focus on:
 
 ---
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+<!---LeetCode Topics End-->
