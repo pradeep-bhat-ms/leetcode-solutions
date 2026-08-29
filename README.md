@@ -38,7 +38,7 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 
 I continuously update this repository as I solve new problems and improve my understanding of algorithms and data structures.
 
-**Total Problems Solved: 20**
+**Total Problems Solved: 22**
 
 ---
 
@@ -120,7 +120,14 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 ---
+
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+
 
 # 🧠 Learning Approach
 
