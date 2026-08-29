@@ -62,15 +62,7 @@ Happy Coding! 🚀
 
 # 📊 LeetCode Topics
 
-## Array
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
-| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
-| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 
 
 
@@ -159,6 +151,7 @@ Happy Coding! 🚀
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0392 - Is Subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +170,17 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
