@@ -38,7 +38,7 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 
 I continuously update this repository as I solve new problems and improve my understanding of algorithms and data structures.
 
-**Total Problems Solved: 22**
+**Total Problems Solved: 24**
 
 ---
 
@@ -62,9 +62,33 @@ Happy Coding! 🚀
 
 # 📊 LeetCode Topics
 
+# 📊 LeetCode Topics
 
+## Array
 
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 
+## String
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
 ## HashMap / HashSet
 
@@ -94,9 +118,25 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 
+## Stack
 
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155 - Min Stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 
+## Linked List
 
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+
+## Fast & Slow Pointers
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 
 ## Greedy
 
@@ -110,17 +150,25 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 
+## Prefix Sum
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+
+## Binary Search
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 
 ## Sorting & Searching
 
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
----
-
-
-
+| [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 
 # 🧠 Learning Approach
 
