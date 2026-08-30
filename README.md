@@ -94,11 +94,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 
-## Stack
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 
 
 
@@ -203,4 +199,13 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
