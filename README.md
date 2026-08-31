@@ -118,12 +118,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 
-## Stack
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
-| [0155 - Min Stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 
 ## Linked List
 
@@ -225,10 +220,14 @@ Happy Coding! 🚀
 | [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,13 +246,23 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0155 - Min Stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 <!---LeetCode Topics End-->
