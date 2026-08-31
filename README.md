@@ -145,11 +145,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 
-## Prefix Sum
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 
 ## Binary Search
 
@@ -251,6 +247,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020 - Valid Parentheses](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0155 - Min Stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 ## Design
@@ -265,4 +262,16 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
