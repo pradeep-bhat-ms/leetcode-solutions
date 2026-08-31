@@ -38,7 +38,7 @@ This repository contains my Java solutions to LeetCode problems that I solve as 
 
 I continuously update this repository as I solve new problems and improve my understanding of algorithms and data structures.
 
-**Total Problems Solved: 24**
+**Total Problems Solved: 26**
 
 ---
 
@@ -160,6 +160,19 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+
+## Backtracking / DFS
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1219 - Path with Maximum Gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+
+
+## Binary Tree / Recursion
+
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094 - Binary Tree Inorder Traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 
 # 🧠 Learning Approach
 
