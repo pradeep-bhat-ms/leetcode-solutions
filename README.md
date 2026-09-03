@@ -168,11 +168,7 @@ Happy Coding! 🚀
 | [1219 - Path with Maximum Gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 
 
-## Binary Tree / Recursion
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094 - Binary Tree Inorder Traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 
 # 🧠 Learning Approach
 
@@ -201,6 +197,7 @@ Happy Coding! 🚀
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0392 - Is Subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +244,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +269,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1219 - Path with Maximum Gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +286,5 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0094 - Binary Tree Inorder Traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
