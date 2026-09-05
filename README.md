@@ -120,12 +120,7 @@ Happy Coding! 🚀
 
 
 
-## Linked List
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
-| [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 
 ## Fast & Slow Pointers
 
