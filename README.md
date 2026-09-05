@@ -156,11 +156,7 @@ Happy Coding! 🚀
 
 
 
-## Backtracking / DFS
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1219 - Path with Maximum Gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 
 
 
@@ -218,6 +214,7 @@ Happy Coding! 🚀
 | [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -292,4 +289,8 @@ Happy Coding! 🚀
 | [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
