@@ -64,16 +64,7 @@ Happy Coding! 🚀
 
 # 📊 LeetCode Topics
 
-## Array
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001 - Two Sum](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
-| [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
-| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
-| [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 
 ## String
 
@@ -232,6 +223,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -294,4 +286,8 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
