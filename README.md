@@ -66,20 +66,7 @@ Happy Coding! 🚀
 
 
 
-## String
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
-| [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
-| [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
-| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
-| [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
-| [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
-| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
-| [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
-| [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
 ## HashMap / HashSet
 
@@ -207,6 +194,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0035 - Search Insert Position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -280,6 +268,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -290,4 +279,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
