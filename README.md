@@ -81,14 +81,7 @@ Happy Coding! 🚀
 | [0383 - Ransom Note](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387 - First Unique Character in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 
-## Two Pointers
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
-| [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
-| [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
-| [0392 - Is Subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 
 ## Sliding Window
 
@@ -172,6 +165,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -180,6 +174,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
