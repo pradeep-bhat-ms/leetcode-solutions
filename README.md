@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [0014 - Longest Common Prefix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028 - Find the Index of the First Occurrence in a String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049 - Group Anagrams](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205 - Isomorphic Strings](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242 - Valid Anagram](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -265,11 +266,13 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Recursion
@@ -280,4 +283,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
