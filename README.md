@@ -83,11 +83,7 @@ Happy Coding! 🚀
 
 
 
-## Sliding Window
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 
 
 
@@ -181,6 +177,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217 - Contains Duplicate](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -202,6 +199,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -288,4 +286,9 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
