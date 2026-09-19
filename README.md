@@ -268,6 +268,7 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
