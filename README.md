@@ -274,16 +274,19 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136 - Single Number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
