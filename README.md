@@ -95,11 +95,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 
-## Greedy
 
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 
 
 
@@ -145,6 +141,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0392 - Is Subsequence](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -185,6 +182,7 @@ Happy Coding! 🚀
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0724-find-pivot-index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0724 - Find Pivot Index](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -265,6 +263,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0704 - Binary Search](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -302,4 +301,13 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0003 - Longest Substring Without Repeating Characters](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0455-assign-cookies](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
