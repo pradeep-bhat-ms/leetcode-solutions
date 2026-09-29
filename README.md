@@ -209,6 +209,7 @@ Happy Coding! 🚀
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -286,6 +287,7 @@ Happy Coding! 🚀
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Newton's Method
