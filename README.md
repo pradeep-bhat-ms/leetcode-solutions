@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -213,6 +215,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0141 - Linked List Cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
