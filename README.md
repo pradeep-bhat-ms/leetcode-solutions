@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206 - Reverse Linked List](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0155 - Min Stack](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +296,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
