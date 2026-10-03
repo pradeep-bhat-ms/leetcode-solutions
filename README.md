@@ -136,6 +136,7 @@ Happy Coding! 🚀
 | [0125 - Valid Palindrome](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283 - Move Zeroes](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344 - Reverse String](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -205,6 +206,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -225,6 +227,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +284,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
