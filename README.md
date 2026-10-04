@@ -176,6 +176,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053 - Maximum Subarray](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121 - Best Time to Buy and Sell Stock](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ Happy Coding! 🚀
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/pradeep-bhat-ms/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
